@@ -4,6 +4,7 @@
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/de.tillschallau.diagrams.tutorial/de.tillschallau.diagrams.tutorial.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/de.tillschallau.diagrams.tutorial/sandbox/de.tillschallau.diagrams.tutorial.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/de.tillschallau.diagrams.build/de.tillschallau.diagrams.build.msd" folder="" />
     </projectModules>
   </component>
 </project>
