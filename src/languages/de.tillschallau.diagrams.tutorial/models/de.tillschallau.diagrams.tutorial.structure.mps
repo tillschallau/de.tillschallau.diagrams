@@ -53,6 +53,7 @@
       <property role="IQ2ns" value="2742634430191823534" />
       <property role="20lmBu" value="fLJjDmT/aggregation" />
       <property role="20kJfa" value="friendRelations" />
+      <property role="20lbJX" value="fLJekj5/_0__n" />
       <ref role="20lvS9" node="2ofMRIKl$Hl" resolve="IsFriendOf" />
     </node>
   </node>
