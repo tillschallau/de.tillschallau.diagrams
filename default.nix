@@ -22,7 +22,7 @@ stdenv.mkDerivation {
     echo ${mps}
     ls ${mps}
 	echo "----"
-    ant cleanSources generate test -Dmps_home=${mps} -Dextensions_home=${extension}
+    ant cleanSources generate test -Dmps_home=${mps} -Dmps_extension=${extension}
     mkdir $out
   '';
 }
